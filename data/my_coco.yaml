@@ -1,0 +1,12 @@
+
+train: E:/data/NEU-DET/NEU-DET/train
+val: E:/data/NEU-DET/NEU-DET/val
+
+
+# number of classes
+nc: 6
+
+# class name
+names: ["crazing", "inclusion", "patches", "pitted_surface", "rolled-in_scale", "scratches"]
+
+# "E:\data\NEU-DET\NEU-DET\val\images\crazing_1.jpg"
